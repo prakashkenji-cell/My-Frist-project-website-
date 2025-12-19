@@ -29,11 +29,11 @@
 <ol>
   <li><b>&ltHTML&gt;</b> is used for creating web pages.</li>
   <li><b>&lt;head&gt;</b> tag is used for storing page information.</li>
-  <li><b>The &lt;title&gt;</b> tag is used for showing the page title in the browser tab.</li>
-  <li><b>The &lt;body&gt;</b> tag is used for displaying visible content.</li>
-  <li><b>The &lt;h1&gt;</b> tag is used for the main heading.</li>
-  <li><b>The &lt;p&gt;</b> tag is used for writing paragraphs.</li>
-  <li><b>The &lt;ul&gt;</b> tag is used for creating unordered lists.</li>
-  <li><b>The &lt;ol&gt;</b> tag is used for creating ordered lists.</li>
+  <li><b>&lt;title&gt;</b> tag is used for showing the page title in the browser tab.</li>
+  <li><b>&lt;body&gt;</b> tag is used for displaying visible content.</li>
+  <li><b>&lt;h1&gt;</b> tag is used for the main heading.</li>
+  <li><b>&lt;p&gt;</b> tag is used for writing paragraphs.</li>
+  <li><b>&lt;ul&gt;</b> tag is used for creating unordered lists.</li>
+  <li><b>&lt;ol&gt;</b> tag is used for creating ordered lists.</li>
 </ol>
 </body>
