@@ -27,6 +27,7 @@
 <p><b> Generally, 90% of websites can be created by knowing the twenty tags in PageML. Those 20 important tags is---</b>
 </p>
 <ol>
-   <li><HTML></li>
+   <li> <HTML> tag ,When to use:
+Wraps the entire HTML code (start and end of a webpage)</li>
 </ol>
 </body>
