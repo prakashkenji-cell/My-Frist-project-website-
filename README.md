@@ -16,9 +16,9 @@
 </p>
 <H3>Why HTML, CSS and JavaScript are used together</H3>
 <ol>
-<li><b>Simply put, HTML acts as the skeleton of a website, just like it acts in our own body</b></li>
- <li><b>And CSS makes the body more beautiful with skin and muscles on that skeleton</b></li>
- <li><b>And JavaScript is the quality of a person, like he is very good at math,he can draw very well,such a website also needs to display more qualities and facilities</b>
+<li><b>HTML acts as the skeleton of a website, just like it acts in our own body</b></li>
+ <li><b>CSS makes the body more beautiful with skin and muscles on that skeleton</b></li>
+ <li><b>JavaScript is the quality of a person, like he is very good at math,he can draw very well,such a website also needs to display more qualities and facilities</b>
 </li>
 </ol>
 </body>
