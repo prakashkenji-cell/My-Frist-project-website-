@@ -21,7 +21,7 @@
  <li><b>JavaScript is the quality of a person, like he is very good at math,he can draw very well,such a website also needs to display more qualities and facilities</b>
 </li>
 </ol>
-<h4><span style:"color.sky;">Now we learn about HTML</span></h4>
-
+<h2><span style:"color.sky;">Now we learn about HTML</span></h2>
+<p><br>HTML is usually made up of tags and content.The rubber tag and the content are together called an element. structure---tags+content=element</br></p>
 
 </body>
