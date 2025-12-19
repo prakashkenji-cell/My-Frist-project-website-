@@ -6,6 +6,10 @@
  </html>
  <body>
    <h1>HTML5 learning for beginners</h1>
-   <p>HTML5 is a web-language</p>
-  
+   <p>The three languages that are mainly needed to create any website are</p>
+ <ol>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>jave script</li>
+  </ol>
  </body>
