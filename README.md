@@ -27,7 +27,7 @@
 <p><b> Generally, 90% of websites can be created by knowing the twenty tags in PageML. Those 20 important tags is---</b>
 </p>
 <ol>
-  <li>HTML is used for creating web pages.</li>
+  <li>&lt:HTML&gt; is used for creating web pages.</li>
   <li>The &lt;head&gt; tag is used for storing page information.</li>
   <li>The &lt;title&gt; tag is used for showing the page title in the browser tab.</li>
   <li>The &lt;body&gt; tag is used for displaying visible content.</li>
