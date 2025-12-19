@@ -14,7 +14,7 @@
   </ol>
 <p>Many people don't understand when HTML, CSS, and JavaScript are needed, and many people think that websites can be created using only HTML, but that's not the case
 </p>
-<H3>Why HTML, CSS and JavaScript are used together</H3>
+<H2>Why HTML, CSS and JavaScript are used together</H2>
 <ol>
 <li><b>HTML acts as the skeleton of a website, just like it acts in our own body</b></li>
  <li><b>CSS makes the body more beautiful with skin and muscles on that skeleton</b></li>
