@@ -22,6 +22,6 @@
 </li>
 </ol>
 <h2><span style:"color.sky;">Now we learn about HTML</span></h2>
-<p><br>HTML is usually made up of tags and content.The rubber tag and the content are together called an element. structure---tags+content=element</br></p>
+<p>HTML is usually made up of tags and content.The rubber tag and the content are together called an element</p> <p>structure---tags+content=element</p>
 
 </body>
