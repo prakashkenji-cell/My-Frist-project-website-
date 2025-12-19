@@ -23,5 +23,8 @@
 </ol>
 <h2><span style:"color.sky;">Now we learn about HTML</span></h2>
 <p>HTML is usually made up of tags and content.The rubber tag and the content are together called an element</p> <p>structure---tags+content=element</p>
+<H4> learn about HTML tags</H4>
+<p><b> Generally, 90% of websites can be created by knowing the twenty tags in PageML. Those 20 important tags is---</b>
+</p>
 
 </body>
