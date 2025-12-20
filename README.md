@@ -68,7 +68,8 @@
          <td>&lt;p&gt;</td> 
     <td>tag is used for writing paragraphs.</td>
          </tr>
-      <tr> <td>&lt;ul&gt;</tr> 
+      <tr> 
+         <td>&lt;ul&gt;</td> 
           </td>tag is used for creating unordered lists.</td>
        </tr>
        <tr>
