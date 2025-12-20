@@ -38,18 +38,48 @@
 <H2> learn about HTML tags</H2>
 <p><b> Generally, 90% of websites can be created by knowing the twenty tags in PageML. Those 20 important tags is---</b>
 </p>
-<ol>
-      <li><b>&ltHTML&gt;</b> is used for creating web pages.</li>
-               <li><b>&lt;head&gt;</b> tag is used for storing page information.</li>
-              <li><b>&lt;title&gt;</b> tag is used for showing the page title in the browser tab.</li>
-      <li><b>&lt;body&gt;</b> tag is used for displaying visible content.</li>
-             <li><b>&lt;h1&gt;</b> tag is used for the main heading.</li>
-          <li><b>&lt;p&gt;</b> tag is used for writing paragraphs.</li>
-    <li><b>&lt;ul&gt;</b> tag is used for creating unordered lists.</li>
-        <li><b>&lt;ol&gt;</b> tag is used for creating ordered lists.</li>
-      <li><b>&lt;header&gt;</b>👉 At the beginning of a section or the entire page
- Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</li>
- </ol>
+<table border="1">
+      <tr>
+         <th>Tags</th>
+            <th>used</th>
+      </tr>
+     <tr>
+        <td>&ltHTML&gt;</td> 
+      <td>is used for creating web pages.
+</td>
+      </tr>
+               <tr>
+            <td>&lt;head&gt;</td>              <td>tag is used for storing page information.</td>
+         </tr>
+              <tr>
+           <td>&lt;title&gt;</td> 
+       <td>tag is used for showing the page title in the browser tab.</td>
+       </tr>
+      <tr>
+        <td>&lt;body&gt;</td> 
+    <td>tag is used for displaying visible content.</td>
+         </tr>
+             <tr>
+            <td>&lt;h1&gt;</td> 
+      <td>tag is used for the main heading.</td>
+         </tr>
+          <tr>
+         <td>&lt;p&gt;</td> 
+    <td>tag is used for writing paragraphs.</td>
+         </tr>
+      <tr> <td>&lt;ul&gt;</tr> 
+          </td>tag is used for creating unordered lists.</td>
+       </tr>
+       <tr>
+       <td>&lt;ol&gt;</td> 
+     <td>tag is used for creating ordered lists.</td>
+       </tr>
+      <tr>
+<td>&lt;header&gt;</td>
+    <td>👉 At the beginning of a section or the entire page
+ Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
+  </tr>
+ </table>
     </section>
   </main>
 </body>
