@@ -1,7 +1,8 @@
 <DOCTYPE HTML>
  <html>
    <head>
-      <title> HTML5 learning website</title>
+      <title> HTML5 learning website
+</title>
      <meta charset="UTF-8">
    </head>
  </html>
@@ -83,3 +84,4 @@
     </section>
   </main>
 </body>
+</html>
