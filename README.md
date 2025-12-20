@@ -32,7 +32,7 @@
 </ol>
   </section>
      <section>
-<h2><span style:"color.sky;">Now we learn about HTML</span></h2>
+<h2>Now we learn about HTML</h2>
 <p>HTML is usually made up of tags and content.The rubber tag and the content are together called an element</p> <p>structure---tags+content=element</p>
    </section>
      <section>
@@ -43,12 +43,12 @@
       <tr>
          <th>Tags</th>
             <th>used</th>
-      </tr>
+        </tr>
      <tr>
         <td>1.&lthtml&gt;</td> 
-      <td>is used for creating web pages.
-</td>
-      </tr>
+          <td>is used for creating web pages.
+     </td>
+          </tr>
                <tr>
             <td>2.&lt;head&gt;</td>              <td>tag is used for storing page information.</td>
          </tr>
@@ -80,9 +80,9 @@
 <td>9.&lt;header&gt;</td>
     <td>👉 At the beginning of a section or the entire page
  Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
-  </tr>
- </table>
-    </section>
-  </main>
-</body>
+   </tr>
+      </table>
+        </section>
+     </main>
+  </body>
 </html>
