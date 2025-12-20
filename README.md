@@ -1,24 +1,24 @@
 <DOCTYPE HTML>
- <html>
+ <html lang="en">
    <head>
-      <title> HTML5 learning website
-</title>
-     <meta charset="UTF-8">
+     <meta charset="UTF-8"> 
+       <title> HTML5 learning website
+     </title>
    </head>
  </html>
  <body>
   <header>
    <H1>HTML5 learning for beginners</H1>
-   </header>
-   <main>
-     <section>
-     <h2>learn about web-language</h2>
-          <p>The three languages that are mainly needed to create any website---</p>
+    </header>
+     <main>
+      <section>
+       <h2>learn about web-language</h2>
+         <p>The three languages that are mainly needed to create any website---</p>
  <ol>
    <li>HTML</li>
-   <li>CSS</li>
+    <li>CSS</li>
    <li>jave script</li>
-  </ol>
+ </ol>
 <p>Many people don't understand when HTML, CSS, and JavaScript are needed, and many people think that websites can be created using only HTML, but that's not the case
 </p>
  </section>
@@ -35,16 +35,19 @@
 <h2>Now we learn about HTML</h2>
 <p>HTML is usually made up of tags and content.The rubber tag and the content are together called an element</p> <p>structure---tags+content=element</p>
    </section>
-     <section>
+ <section>
 <H2> learn about HTML tags</H2>
 <p><b> Generally, 90% of websites can be created by knowing the twenty tags in PageML. Those 20 important tags is---</b>
 </p>
 <table border="1">
+ <thread>
       <tr>
          <th>Tags</th>
             <th>used</th>
         </tr>
-     <tr>
+ </thread>
+    <tbody>
+       <tr>
         <td>1.&lthtml&gt;</td> 
           <td>is used for creating web pages.
      </td>
@@ -81,7 +84,8 @@
     <td>👉 At the beginning of a section or the entire page
  Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
    </tr>
-      </table>
+      </tbody>
+       </table>
         </section>
      </main>
   </body>
