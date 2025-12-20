@@ -27,13 +27,15 @@
 <p><b> Generally, 90% of websites can be created by knowing the twenty tags in PageML. Those 20 important tags is---</b>
 </p>
 <ol>
-  <li><b>&ltHTML&gt;</b> is used for creating web pages.</li>
-  <li><b>&lt;head&gt;</b> tag is used for storing page information.</li>
-  <li><b>&lt;title&gt;</b> tag is used for showing the page title in the browser tab.</li>
-  <li><b>&lt;body&gt;</b> tag is used for displaying visible content.</li>
-  <li><b>&lt;h1&gt;</b> tag is used for the main heading.</li>
-  <li><b>&lt;p&gt;</b> tag is used for writing paragraphs.</li>
-  <li><b>&lt;ul&gt;</b> tag is used for creating unordered lists.</li>
-  <li><b>&lt;ol&gt;</b> tag is used for creating ordered lists.</li>
+      <li><b>&ltHTML&gt;</b> is used for creating web pages.</li>
+               <li><b>&lt;head&gt;</b> tag is used for storing page information.</li>
+              <li><b>&lt;title&gt;</b> tag is used for showing the page title in the browser tab.</li>
+      <li><b>&lt;body&gt;</b> tag is used for displaying visible content.</li>
+             <li><b>&lt;h1&gt;</b> tag is used for the main heading.</li>
+          <li><b>&lt;p&gt;</b> tag is used for writing paragraphs.</li>
+    <li><b>&lt;ul&gt;</b> tag is used for creating unordered lists.</li>
+        <li><b>&lt;ol&gt;</b> tag is used for creating ordered lists.</li>
+      <li><b>&lt;header&gt;</b>👉 At the beginning of a section or the entire page
+ Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</li>
 </ol>
 </body>
