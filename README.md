@@ -45,39 +45,39 @@
             <th>used</th>
       </tr>
      <tr>
-        <td>&ltHTML&gt;</td> 
+        <td>1.&ltHTML&gt;</td> 
       <td>is used for creating web pages.
 </td>
       </tr>
                <tr>
-            <td>&lt;head&gt;</td>              <td>tag is used for storing page information.</td>
+            <td>2.&lt;head&gt;</td>              <td>tag is used for storing page information.</td>
          </tr>
               <tr>
-           <td>&lt;title&gt;</td> 
+           <td>3.&lt;title&gt;</td> 
        <td>tag is used for showing the page title in the browser tab.</td>
        </tr>
       <tr>
-        <td>&lt;body&gt;</td> 
+        <td>4.&lt;body&gt;</td> 
     <td>tag is used for displaying visible content.</td>
          </tr>
              <tr>
-            <td>&lt;h1&gt;</td> 
+            <td>5.&lt;h1&gt;</td> 
       <td>tag is used for the main heading.</td>
          </tr>
           <tr>
-         <td>&lt;p&gt;</td> 
+         <td>6.&lt;p&gt;</td> 
     <td>tag is used for writing paragraphs.</td>
          </tr>
       <tr> 
-         <td>&lt;ul&gt;</td> 
+         <td>7.&lt;ul&gt;</td> 
           <td>tag is used for creating unordered lists.</td>
        </tr>
        <tr>
-       <td>&lt;ol&gt;</td> 
+       <td>8.&lt;ol&gt;</td> 
      <td>tag is used for creating ordered lists.</td>
        </tr>
       <tr>
-<td>&lt;header&gt;</td>
+<td>9.&lt;header&gt;</td>
     <td>👉 At the beginning of a section or the entire page
  Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
   </tr>
