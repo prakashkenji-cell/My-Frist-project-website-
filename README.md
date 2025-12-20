@@ -70,7 +70,7 @@
          </tr>
       <tr> 
          <td>&lt;ul&gt;</td> 
-          </td>tag is used for creating unordered lists.</td>
+          <td>tag is used for creating unordered lists.</td>
        </tr>
        <tr>
        <td>&lt;ol&gt;</td> 
