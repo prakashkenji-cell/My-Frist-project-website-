@@ -7,11 +7,11 @@
  </html>
  <body>
   <header>
-   <H1> HTML5 learning</H1>
+   <H1>HTML5 learning for beginners</H1>
    </header>
    <main>
      <section>
-     <h1>HTML5 learning for beginners</h1>
+     <h2>learn about web-language</h2>
           <p>The three languages that are mainly needed to create any website---</p>
  <ol>
    <li>HTML</li>
