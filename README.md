@@ -77,7 +77,7 @@
      <td>tag is used for creating ordered lists.</td>
        </tr>
       <tr>
-<td>9&lt;header&gt;</td>
+<td>(9)&lt;header&gt;</td>
     <td>👉 At the beginning of a section or the entire page
  Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
   </tr>
