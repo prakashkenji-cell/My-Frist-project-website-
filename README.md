@@ -17,7 +17,7 @@
  <ol>
    <li>HTML</li>
     <li>CSS</li>
-   <li>jave script</li>
+   <li>Jave Script</li>
  </ol>
 <p>Many people don't understand when HTML, CSS, and JavaScript are needed, and many people think that websites can be created using only HTML, but that's not the case
 </p>
