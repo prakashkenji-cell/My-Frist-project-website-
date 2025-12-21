@@ -83,6 +83,13 @@
 <td>9.&lt;header&gt;</td>
     <td>👉 At the beginning of a section or the entire page
  Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
+
+<td>&LT;nav&gt;</td>
+<td>Defines navigation linksFor menus or navigation barsHome | About | Contact</td>
+<td>&LT;main&gt;</td>
+<td>Holds the main content of the pageFor the primary content (only once per page)Articles, blog posts, page content</td>
+<td>&LT;section&gt;</td>
+<td>Groups related contentWhen content has a common topicAbout section, Services section</td>
    </tr>
       </tbody>
        </table>
