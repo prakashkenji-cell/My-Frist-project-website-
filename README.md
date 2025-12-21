@@ -81,12 +81,12 @@
        </tr>
       <tr>
 <td>9.&lt;header&gt;</td>
-    <td>👉 At the beginning of a section or the entire page
+    <td> At the beginning of a section or the entire page
  Where it contains:Title / Heading/Logo/Intro text/Navigation(menu)</td>
 
 <tr>
  <td>10.&LT;nav&gt;</td>
-<td>Defines navigation linksFor menus or navigation bars ......Home | About | Contact</td>
+<td>Defines navigation linksFor menus or navigation bars ......→→→→Home | About | Contact</td>
   </tr>
     <tr>
   <td>11.&LT;main&gt;</td>
