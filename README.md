@@ -86,7 +86,7 @@
 
 <tr>
  <td>10.&LT;nav&gt;</td>
-<td>Defines navigation linksFor menus or navigation bars ......→→→→Home | About | Contact</td>
+<td>Defines navigation linksFor menus or navigation bars →→→→Home | About | Contact</td>
   </tr>
     <tr>
   <td>11.&LT;main&gt;</td>
