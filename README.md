@@ -98,11 +98,11 @@
 <td>Groups related contentWhen content has a common topicAbout section, Services section</td>
    </tr>
 <tr>
-    <td>&ltarticle&gt</td>
+    <td>13.&ltarticle&gt</td>
       <td>Independent, self-contained contentWhen content can stand aloneBlog post, news article, forum post</td>
     </tr>
        <tr>
-         <td>&ltaside&gt</td>
+         <td>14.&ltaside&gt</td>
       <td>Side or related contentWhen content is indirectly relatedAds, author bio, related links</td>
         </tr>
        </tbody>
