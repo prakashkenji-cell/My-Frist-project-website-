@@ -97,7 +97,15 @@
  <td>12.&LT;section&gt;</td>
 <td>Groups related contentWhen content has a common topicAbout section, Services section</td>
    </tr>
-      </tbody>
+<tr>
+    <td>&ltarticle&gt</td>
+      <td>Independent, self-contained contentWhen content can stand aloneBlog post, news article, forum post</td>
+    </tr>
+       <tr>
+         <td>&ltaside&gt</td>
+      <td>Side or related contentWhen content is indirectly relatedAds, author bio, related links</td>
+        </tr>
+       </tbody>
        </table>
         </section>
      </main>
